@@ -1,0 +1,5 @@
+C:\Users\jesse.rohowetz\Desktop\WK\WK.Shop.Base\bin\Debug\WK.Shopping.Base.dll
+C:\Users\jesse.rohowetz\Desktop\WK\WK.Shop.Base\bin\Debug\WK.Shopping.Base.pdb
+C:\Users\jesse.rohowetz\Desktop\WK\WK.Shop.Base\obj\Debug\WK.Shop.Base.csprojResolveAssemblyReference.cache
+C:\Users\jesse.rohowetz\Desktop\WK\WK.Shop.Base\obj\Debug\WK.Shopping.Base.dll
+C:\Users\jesse.rohowetz\Desktop\WK\WK.Shop.Base\obj\Debug\WK.Shopping.Base.pdb

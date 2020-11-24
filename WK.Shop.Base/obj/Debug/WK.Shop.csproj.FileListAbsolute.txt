@@ -1,0 +1,4 @@
+D:\projects\WK.Shopping\WK.Shopping.Base\bin\Debug\WK.Shopping.Base.dll
+D:\projects\WK.Shopping\WK.Shopping.Base\bin\Debug\WK.Shopping.Base.pdb
+D:\projects\WK.Shopping\WK.Shopping.Base\obj\Debug\WK.Shopping.Base.dll
+D:\projects\WK.Shopping\WK.Shopping.Base\obj\Debug\WK.Shopping.Base.pdb

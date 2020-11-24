@@ -1,0 +1,10 @@
+C:\Users\jesse.rohowetz\Desktop\WK\WK.Shop\bin\Debug\WK.Shopping.exe.config
+C:\Users\jesse.rohowetz\Desktop\WK\WK.Shop\obj\Debug\WK.Shopping.exe
+C:\Users\jesse.rohowetz\Desktop\WK\WK.Shop\obj\Debug\WK.Shopping.pdb
+C:\Users\jesse.rohowetz\Desktop\WK\WK.Shop\obj\Debug\WK.Shop.csprojResolveAssemblyReference.cache
+C:\Users\jesse.rohowetz\Desktop\WK\WK.Shop\bin\Debug\WK.Shopping.exe
+C:\Users\jesse.rohowetz\Desktop\WK\WK.Shop\bin\Debug\WK.Shopping.pdb
+C:\Users\jesse.rohowetz\Desktop\WK\WK.Shop\bin\Debug\WK.DA.dll
+C:\Users\jesse.rohowetz\Desktop\WK\WK.Shop\bin\Debug\WK.Shopping.Base.dll
+C:\Users\jesse.rohowetz\Desktop\WK\WK.Shop\bin\Debug\WK.DA.pdb
+C:\Users\jesse.rohowetz\Desktop\WK\WK.Shop\bin\Debug\WK.Shopping.Base.pdb

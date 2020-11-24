@@ -1,0 +1,14 @@
+D:\projects\WK.Shopping\DA.Base\bin\Debug\DA.Base.dll
+D:\projects\WK.Shopping\DA.Base\bin\Debug\DA.Base.pdb
+D:\projects\WK.Shopping\DA.Base\obj\Debug\DA.Base.dll
+D:\projects\WK.Shopping\DA.Base\obj\Debug\DA.Base.pdb
+D:\projects\WK.Shopping\WK.DA\bin\Debug\WK.DA.dll
+D:\projects\WK.Shopping\WK.DA\bin\Debug\WK.DA.pdb
+D:\projects\WK.Shopping\WK.DA\obj\Debug\WK.DA.csprojResolveAssemblyReference.cache
+D:\projects\WK.Shopping\WK.DA\obj\Debug\WK.DA.dll
+D:\projects\WK.Shopping\WK.DA\obj\Debug\WK.DA.pdb
+C:\Users\jesse.rohowetz\Desktop\WK\WK.DA\bin\Debug\WK.DA.dll
+C:\Users\jesse.rohowetz\Desktop\WK\WK.DA\bin\Debug\WK.DA.pdb
+C:\Users\jesse.rohowetz\Desktop\WK\WK.DA\obj\Debug\WK.DA.csprojResolveAssemblyReference.cache
+C:\Users\jesse.rohowetz\Desktop\WK\WK.DA\obj\Debug\WK.DA.dll
+C:\Users\jesse.rohowetz\Desktop\WK\WK.DA\obj\Debug\WK.DA.pdb
